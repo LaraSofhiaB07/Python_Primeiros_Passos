@@ -1,7 +1,0 @@
-Alnome1= input(' Nome do(a) primeiro aluno(a):')
-Alnome2= input(' Nome do(a) segundo aluno(a):')
-Nota1Al1= input(' Primeira nota do(a) {} :'.format(Alnome1) )
-Nota2Al1= input(' Segunda nota do(a) {} :'.format(Alnome1))
-Nota1Al2= input(' Primeira nota do(a) {} :'.format(Alnome2))
-Nota2Al2= input(' Segunda nota do(a) {} :'.format(Alnome2))
-M1= ( '(Nota1Al1 + Nota2Al1) / ')
