@@ -1,2 +1,1 @@
-msg = 'Olá mundo!'
-print(msg)
+print('\033[31mOlá, mundo!\033[m')
