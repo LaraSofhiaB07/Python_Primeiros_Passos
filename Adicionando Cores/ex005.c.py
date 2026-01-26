@@ -1,0 +1,2 @@
+n= int(input('\033[35m Digite um número: \033[m'))
+print('\033[36mAnalisando o valor\033[m \033[31m{}\033[m \033[36m,seu antecessor é \033[m \033[31m{}\033[m \033[36m e seu sucessor é \033[m \033[31m{}\033[m'.format(n,(n-1),(n+1)))
